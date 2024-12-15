@@ -55,6 +55,7 @@ header .container {
 header .container .logo a {
   font-size: 34px;
   color: var(--white);
+
 }
 header .container .nav input {
   appearance: none;
